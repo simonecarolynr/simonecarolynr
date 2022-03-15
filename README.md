@@ -16,10 +16,10 @@ Coding languages I've used:
 
 • Python
 
-Some fun facts about me:
+A few things about me:
 
-- 🔭 I’m currently working on: My design portfolio
-- 🌱 I’m currently learning: React.js
-- 😄 Pronouns: She / Them
+- 🔭 I’m currently working on: Building my full scale branding and graphic design business
+- 🌱 I’m currently learning: Adobe Ps
+- 😄 Pronouns: She / Her
 - ⚡ Fun fact: I'm bilingual!
 
